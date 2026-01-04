@@ -1,0 +1,1 @@
+perate JJAJA, si esta tan alejado entonces solo tenemos que buscar con el algoritmo anti fermat osea empieza desde los numeros con los raiz cuadrada de bits mas alejados hasta los mas cercanos con criba simple! JAJAJJA
